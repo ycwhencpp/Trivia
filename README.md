@@ -9,4 +9,6 @@ logic.js contains logic to determine correct and incorrect answer and it respond
 
 
    If the user types an incorrect answer and presses the confirmation button, the text field should turn red and text should appear beneath the question that says “Incorrect”.
+   
+   
    If the user types the correct answer and presses the confirmation button, the input field should turn green and text should appear beneath the question that says “Correct!”.
